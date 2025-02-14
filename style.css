@@ -1,0 +1,44 @@
+* {
+
+}
+
+body {
+	font-family: "Sour Gummy", serif;
+  	font-optical-sizing: auto;
+ 	font-weight: <weight>;
+  	font-style: normal;
+  	font-variation-settings:
+    "wdth" 100;
+	background-color: lightpink;
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+}
+
+img {
+	width: 30%;
+}
+
+label {
+	font-size: 20px;
+}
+
+a {
+	color: black;
+}
+
+footer {
+	position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #F8F4E3;
+    color: black;
+}
+
+.container {
+	background-color: #F8F4E3;
+	width: 72%;
+}
